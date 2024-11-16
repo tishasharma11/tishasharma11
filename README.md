@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tishasharma11
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
+- I’m @tishasharma11
+- Interested in learning new things
+- Coding languages: Python, C, C++, Java, R
 
 <!---
 tishasharma11/tishasharma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
